@@ -1,0 +1,12 @@
+.img-container{
+    background-color: black;
+}
+
+.img-container img:hover{
+    opacity: 1;
+}
+
+.no-image-card{
+    width: 248px;
+    height: 372px;
+}
